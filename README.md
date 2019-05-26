@@ -115,3 +115,7 @@ python ../../tools/eval.py 	 \
 ## License
 
 PySOT is released under the [Apache 2.0 license](https://github.com/STVIR/pysot/blob/master/LICENSE). 
+
+## 李剑备注：
+1.https://zhuanlan.zhihu.com/p/67006421?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808
+挑战目标跟踪算法极限，商汤开源SiamRPN系列算法解读
